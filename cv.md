@@ -6,7 +6,7 @@ Junior Frontend Developer
 
 #### English B-1
 
-![(https://lh3.googleusercontent.com/a/AGNmyxYFMrszfr-QSYF4SOdaddwGSF17CbFIPI4MT_Q2uw=s576)]
+![My foto](https://lh3.googleusercontent.com/a/AGNmyxYFMrszfr-QSYF4SOdaddwGSF17CbFIPI4MT_Q2uw=s576)
 
 
 ##### ¡Hola amigos!
