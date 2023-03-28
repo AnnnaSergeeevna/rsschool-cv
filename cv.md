@@ -1,4 +1,4 @@
-## Anna
+## Anna Lipatova Kuzmina
 
 Junior Frontend Developer
 
@@ -6,7 +6,7 @@ Junior Frontend Developer
 
 #### English B-1
 
-[(https://lh3.googleusercontent.com/a/AGNmyxYFMrszfr-QSYF4SOdaddwGSF17CbFIPI4MT_Q2uw=s576)]
+![(https://lh3.googleusercontent.com/a/AGNmyxYFMrszfr-QSYF4SOdaddwGSF17CbFIPI4MT_Q2uw=s576)]
 
 
 ##### ¡Hola amigos!
