@@ -1,15 +1,15 @@
-## Heading Anna
+## Anna
 
 Junior Frontend Developer
 
-### Heading Malaga,Spain
+### Malaga,Spain
 
-#### Heading English B-1
+#### English B-1
 
-(https://lh3.googleusercontent.com/a/AGNmyxYFMrszfr-QSYF4SOdaddwGSF17CbFIPI4MT_Q2uw=s576)
+[Me(https://lh3.googleusercontent.com/a/AGNmyxYFMrszfr-QSYF4SOdaddwGSF17CbFIPI4MT_Q2uw=s576)]
 
 
-##### Heading ¡Hola amigos!
+##### ¡Hola amigos!
 
 For the last six months me and my hubby live in sunny Spain.
 
@@ -25,8 +25,11 @@ My soft skills are also in progress: I plan to upp my English from B1 to B2 and 
 
 I also research the structure and distribution of roles within IT-projects.
 
-##### Heading Contacts:
-+34 621 086 703
-anna.s.lipatova@gmail.com
-@Annna**sergeevna
-AnnnaSergeeevna
+##### Contacts:
+Phone +34 621 086 703
+
+Email anna.s.lipatova@gmail.com
+
+Telegram @Annna_sergeevna
+
+Github AnnnaSergeeevna
