@@ -1,9 +1,15 @@
-Anna
-Junior Frontend Developer  
-Malaga,Spain
-B 1
-https://lh3.googleusercontent.com/a/AGNmyxYFMrszfr-QSYF4SOdaddwGSF17CbFIPI4MT_Q2uw=s576
-¡Hola amigos!
+## Heading Anna
+
+Junior Frontend Developer
+
+### Heading Malaga,Spain
+
+#### Heading English B-1
+
+(https://lh3.googleusercontent.com/a/AGNmyxYFMrszfr-QSYF4SOdaddwGSF17CbFIPI4MT_Q2uw=s576)
+
+
+##### Heading ¡Hola amigos!
 
 For the last six months me and my hubby live in sunny Spain.
 
@@ -15,10 +21,12 @@ At this moment i have some  skills in using IDE, GIT, knowelege in HTML, CSS,  J
 I'm creating something like a social network 
 and it makes me delighted to understand how familiar things work!
 
-My soft skills are also in progress: I plan to upp my English from B1 to B2 and higher (my English is still terrible, but I speak much better than Sergey Lavrov;) ).
+My soft skills are also in progress: I plan to upp my English from B1 to B2 and higher.My English is still terrible, but I speak much better than Sergey Lavrov.
 
 I also research the structure and distribution of roles within IT-projects.
-+34621086703
+
+##### Heading Contacts:
++34 621 086 703
 anna.s.lipatova@gmail.com
-@Annna_sergeevna
+@Annna**sergeevna
 AnnnaSergeeevna
